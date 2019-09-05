@@ -18,6 +18,9 @@ public class JavaApplication2 {
         // TODO code application logic here
         System.out.println("Git Demo 2019");
 System.out.println("Rafeeq new update 4:30pm");
+
+System.out.println("Rafeeq new update 4:30pm");
+System.out.println("Rafeeq new update 4:30pm");
     }
     
 }
